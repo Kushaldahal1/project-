@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav {
+    background-color: #f8f8f8;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    word-spacing: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li:last-child {
+    margin-right: 0;
+  }
+  
+  nav form input {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  nav form button {
+    padding: 5px 10px;
+    background-color: #ff6600;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .content {
+    text-align: center;
+    padding: 20px;
+  }
